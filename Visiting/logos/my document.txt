@@ -1,0 +1,54 @@
+DATE:04:4:2017
+NAME:Muhammad Afzal
+ADDRESS:Al hilal society
+CONTACT:03332178435
+TR NUMBR:195
+REMARKS:c75
+PRODUCT:Mini Ac
+COD:900
+
+DATE:04:4:2017
+NAME:Shahid
+ADDRESS:polat no 5 near mezan banks bilding shamsah godam shershah
+CONTACT:03128870049
+TR NUMBR:196
+REMARKS:c91
+PRODUCT:Mini AC
+COD:900
+
+DATE:04:4:2017
+NAME:Muhammad saad
+ADDRESS:R-658 sector 15-b bufferzone north karachi
+CONTACT:336 0837299
+TR NUMBR:197
+REMARKS:cl665
+PRODUCT:MINI AC
+COD:900
+
+DATE:04:4:2017
+NAME:Areeba
+ADDRESS:Address: gulshan-e-Iqbal block 5 house no A222 near Amna masjid  karachi
+CONTACT:03323399431
+TR NUMBR:198
+REMARKS:fk
+PRODUCT:Hello kitty Mac lipstick (6) charcoal mask (7) brush double face powder
+COD:2650
+
+DATE:04:4:2017
+NAME:Rida Lodhi
+ADDRESS:CP-2 Norman Heaven, Gulistan e Johar, block 15 Karach
+CONTACT:0333 2418880
+TR NUMBR:199
+REMARKS:fk
+PRODUCT:kylie 12 glow kit 2
+COD:4500
+
+
+DATE:04:4:2017
+NAME:khiruddin asnsari
+ADDRESS:house no R-12P.E.C.I.R employees housing society scheme 33 karachi oop karachi university 
+CONTACT:03003016990 03333572687
+TR NUMBR:200
+REMARKS:s667
+PRODUCT:MINI AC
+COD:900
