@@ -552,7 +552,7 @@ mm_menu_1031143908_0.writeMenus();
  <tr>
 
         <td align="center" style="vertical-align:top" class="footer">&copy; 2017 Seacliff Enterprises  |   All Rights Reserved<br />
-          	Designed by <a href="http://kezitech.net/" target = "_blank" >kezitech</a> 
+          	Designed by Haris Shahid
 
          </td>
 
